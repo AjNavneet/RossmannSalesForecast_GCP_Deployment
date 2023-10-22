@@ -21,7 +21,7 @@ This project focuses on forecasting store sales, taking into account various inf
 
 ## Model Deployment
 
-The goal of this project is to deploy a machine learning model to the cloud, specifically using Google Cloud Platform (GCP). We explore two deployment approaches:
+We deploy the model created using Google Cloud Platform (GCP). We explore two deployment approaches:
 
 1. Traditional Approach
 2. Dockerized Approach
