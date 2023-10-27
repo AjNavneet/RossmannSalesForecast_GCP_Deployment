@@ -1,4 +1,4 @@
-# Rossmann Sales Forecast and GCP Deployment
+# Rossmann Sales Forecast with GCP Deployment
 
 ## Project Description
 
