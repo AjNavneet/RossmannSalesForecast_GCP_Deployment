@@ -4,6 +4,8 @@
 
 Rossmann, a chain of over 3,000 drug stores across 7 European countries, faces the challenge of predicting daily sales up to six weeks in advance. 
 
+---
+
 ## Objective
 This project focuses on forecasting store sales, taking into account various influencing factors, such as promotions, competition, holidays, seasonality, and locality.
 
